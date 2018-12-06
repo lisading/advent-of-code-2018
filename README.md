@@ -1,1 +1,1 @@
-# advent-of-code-2018
+Practice Python at [https://adventofcode.com](https://adventofcode.com/).
