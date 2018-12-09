@@ -19,7 +19,7 @@ def find_freq(l):
 
 
 if __name__ == '__main__':
-    with open("input") as file:
+    with open("input.txt") as file:
         freq_list = []
         for line in file:
             freq_list.append(int(line))
